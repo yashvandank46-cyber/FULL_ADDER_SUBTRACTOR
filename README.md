@@ -86,6 +86,10 @@ RegisterNumber:25017523
 
 **Output Timing Waveform**
 #FULL ADDER
+<img width="1305" height="319" alt="Screenshot 2025-11-25 202319" src="https://github.com/user-attachments/assets/7ed18a86-246b-418f-8d5d-69227c20e8b0" />
+#FULL SUBTACTOR
+<img width="1279" height="253" alt="Screenshot 2025-11-25 202354" src="https://github.com/user-attachments/assets/712eeffd-54f4-476a-813d-c3aac57ba54c" />
+
 
 
 **Result:**
